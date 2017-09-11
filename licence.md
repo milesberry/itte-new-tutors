@@ -1,4 +1,4 @@
-The contents here were developed by ITTE as part of a project funded by the Teaching and Development Agency. They are thus covered by the Open Government Licence, except where stated.
+The contents here were developed by ITTE as part of a project funded by the Training and Development Agency for Schools. They are thus covered by the Open Government Licence, except where stated.
 
 You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
 
